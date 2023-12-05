@@ -1,0 +1,17 @@
+body {
+    padding: 10px;
+  }
+  
+  input {
+    margin: 5px;
+  }
+
+  main {
+    width: 400px;
+  }
+input {
+   width: 400px;
+}
+textarea {
+    width: 400px;
+}
